@@ -5,7 +5,7 @@
    Format: 'YYYY-MM-DDTHH:MM:SS'  (24-hour time, your local Lagos time)
    Example: the 9th anniversary programme starts 9:00am on 8 November 2026
    ========================================================================== */
-const ANNIVERSARY_DATE = '2026-11-08T09:00:00';
+const ANNIVERSARY_DATE = '2026-09-30T09:00:00';
 
 document.addEventListener('DOMContentLoaded', () => {
   const el = {
